@@ -1,0 +1,25 @@
+{
+    "body": {
+      "app_core": 1,
+      "app_did": "c3b7fd012ac8403dTPG5T18323021582",
+      "app_lang": "ZH-HANS-CN",
+      "client_id": "9529b01d71f00672750b9c94063402c2",
+      "client_type": 2,
+      "location": ",",
+      "phone_code": "86",
+      "push_id": "",
+      "terminal_check": 0,
+      "terminal_device_id": "c3b7fd012ac8403dTPG5T18323021582",
+      "terminal_device_name": "HWI-AL00",
+      "terminal_device_type": "268.0.0",
+      "user_name": "Rocky@apemans.com",
+      "user_pass": "123456",
+      "user_type": 1
+    },
+    "dana_time": 1551962135346,
+    "app_did": "c3b7fd012ac8403dTPG5T18323021582",
+    "cmd": "UserLogin",
+    "page": 0,
+    "page_size": 0,
+    "request_id": 0
+  }
